@@ -19,3 +19,4 @@
 - Pull-to-refresh, filtr chiplari (Hammasi / Xavfli / Foydalanuvchi / Tizim)
 - Ilovalarning haqiqiy ikonkalari, TalkBack tavsiflari, matnlar `strings.xml` da
 - Radar animatsiyasi faqat skanerlash paytida ishlaydi (batareya tejash)
+# APKantivirus
