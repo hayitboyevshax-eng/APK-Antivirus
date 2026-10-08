@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">APK Antivirus</string>
+    <string name="top_title">KIBERQALQON</string>
+    <string name="realtime_on">REAL VAQT: FAOL</string>
+    <string name="realtime_off">REAL VAQT: O\'CHIQ</string>
+    <string name="status_scanning">SKANERLANMOQDA...</string>
+    <string name="status_threats">%1$d TA XAVF ANIQLANDI</string>
+    <string name="status_protected">QURILMA HIMOYALANGAN</string>
+    <string name="rescan_hint">Qayta skanerlash uchun radarni bosing</string>
+    <string name="radar_action">Chuqur skanerlashni boshlash</string>
+    <string name="action_deep_scan">Chuqur skaner</string>
+    <string name="action_apps">Ilovalar</string>
+    <string name="action_battery">Batareya Doze</string>
+    <string name="section_apps">TAHLIL QILINGAN ILOVALAR (%1$d)</string>
+    <string name="filter_all">Hammasi</string>
+    <string name="filter_risky">Xavfli</string>
+    <string name="filter_user">Foydalanuvchi</string>
+    <string name="filter_system">Tizim</string>
+    <string name="level_safe">XAVFSIZ</string>
+    <string name="level_low">PAST</string>
+    <string name="level_medium">O\'RTACHA</string>
+    <string name="level_high">YUQORI</string>
+    <string name="level_critical">KRITIK</string>
+    <string name="badge_system">TIZIM</string>
+    <string name="badge_permissions">%1$d ta xavfli ruxsat</string>
+    <string name="uninstall_cd">%1$s ilovasini o\'chirish</string>
+    <string name="empty_filter">Bu toifada ilova topilmadi</string>
+    <string name="scanning_apps">Ilovalar tahlil qilinmoqda…</string>
+</resources>
